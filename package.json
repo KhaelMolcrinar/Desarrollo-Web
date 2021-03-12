@@ -1,0 +1,23 @@
+{
+  "name": "cap.1",
+  "version": "1.0.0",
+  "description": "tipos de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhaelMolcrinar/Classes.git"
+  },
+  "keywords": [
+    "data",
+    "type"
+  ],
+  "author": "khael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhaelMolcrinar/Classes/issues"
+  },
+  "homepage": "https://github.com/KhaelMolcrinar/Classes#readme"
+}
