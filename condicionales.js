@@ -36,5 +36,5 @@ if (a < 20) {
     console.log('es menor de 10');
 }
 
-
+// else if condicional dentro de otro condicional
 
